@@ -1,6 +1,8 @@
 # QuizApp
 
-A simple quiz app using Flutter
+A simple quiz app using Flutter 
+
+Course link is [here](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 ![quiz1](https://user-images.githubusercontent.com/69786552/103311200-b7160200-4a3f-11eb-96fe-7db9954fd180.jpeg)
 
